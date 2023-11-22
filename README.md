@@ -1,5 +1,5 @@
 # OVERVIEW
-A very basic news app written in Java. The app uses data from News API.
+A news feed app written in Java. The app uses data from News API.
 
 # Screenshots
 <p float="left">
