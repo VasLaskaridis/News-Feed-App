@@ -3,7 +3,7 @@ A news feed app for Android.
 
 ## Requirements
 - Writen in Java
-- Fetch news feed from News API.
+- Fetch news feed from News API
 - Display the news feed
 - A search button which the user can use to search for news with a keyword
 
